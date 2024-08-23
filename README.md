@@ -8,8 +8,6 @@ This project is a static clone of the Mini Cooper website, built using HTML and 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
@@ -42,3 +40,14 @@ A web browser is required to view the website.
 
    ```bash
    git clone https://github.com/anupamasanthosh/MiniCouper.git
+
+   ## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+
+Anupama Santhosh - [anupamasanthosh730@gmail.com](mailto:anupamasanthosh730@gmail.com)
+
+Project Link: [https://github.com/anupamasanthosh/MiniCouper](https://github.com/anupamasanthosh/MiniCouper)
+
